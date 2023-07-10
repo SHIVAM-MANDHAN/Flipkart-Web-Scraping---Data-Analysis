@@ -13,5 +13,3 @@ This repository contains the following files:
 - `Analyzing Flipkart Data.ipynb`: This Jupyter Notebook showcases the data analysis phase. It includes data cleaning techniques, exploratory data analysis, and the identification of interesting insights.
 
 By leveraging the power of Beautiful Soup and pandas, I was able to extract, store, and analyze a substantial amount of data. Feel free to explore the code, data, and analysis files to gain inspiration for your own projects or enhance your understanding of web scraping and data analysis techniques.
-
-Don't forget to leave a ⭐️ if you find this project interesting and helpful!
